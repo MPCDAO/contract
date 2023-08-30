@@ -1,5 +1,36 @@
-# contract : 0xF200FA6B8649704591a8Ed55E8739111676f1a9b
+# smart contract : 0xF200FA6B8649704591a8Ed55E8739111676f1a9b
+---------------------------------------------------
 
+# smart contract
+
+{
+
+    "name": "MPC DAO",
+    
+    "website": "https://mpctoken.io/",
+    
+    "description": "A blockchain with a full-fledged environment for developing high-performance decentralized applications and cross-chain compatibility with Binance Chain.",
+    
+    "explorer": "https://bscscan.com/token/0xf200fa6b8649704591a8ed55e8739111676f1a9b",
+    
+    "id": "0xF200FA6B8649704591a8Ed55E8739111676f1a9b",
+    
+    "symbol": "mpc",
+    
+    "type": "token",
+    
+    "decimals": 9,
+    
+    "status": "active",
+    
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+
+--------------------------------------------------
+ # Code
 pragma solidity ^0.4.24;
 
 library SafeMath {
