@@ -9,7 +9,7 @@
     
     "website": "https://mpctoken.io/",
     
-    "description": "A blockchain with a full-fledged environment for developing high-performance decentralized applications and cross-chain compatibility with Binance Chain.",
+    "description": "MPC is a token based on the BSC blockchain, which was created in the education industry as a Dao and has various DeFi and NFT services.",
     
     "explorer": "https://bscscan.com/token/0xf200fa6b8649704591a8ed55e8739111676f1a9b",
     
@@ -24,9 +24,7 @@
     "status": "active",
     
     "tags": [
-        "staking-native"
-    ],
-    "links": [
+        "defi","NFT","DAO","education"
         {
 
 --------------------------------------------------
